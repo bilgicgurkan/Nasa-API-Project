@@ -1,15 +1,4 @@
-/* .main-image {
-    background-image: url(img/805ip793d1r91.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-#span {
-    backdrop-filter: blur(19px);
-} */
-
-.today-data-info{
+.today-data-info {
     width: 130px;
     top: 10px;
     margin-left: 10px;
@@ -80,7 +69,7 @@
     margin-top: 10px;
 }
 
-.select-date-area-info{
+.select-date-area-info {
     width: 130px;
     top: 150px;
     margin-left: 10px;
@@ -114,7 +103,6 @@
 .main-area {
     margin-left: 160px;
     margin-top: 20px;
-    /* border: 1px solid #000; */
     display: grid;
     grid-template-columns: 100%;
 }
@@ -152,7 +140,7 @@
 
 .copyright,
 .date,
-.title{
+.title {
     border-right: 1px solid #000;
     padding-right: 4px;
 }
