@@ -2,7 +2,7 @@
 
 <sub> NASA'nın yayınlamış olduğu API'ye istek atarak ister günlük istersek belirli tarihlerde yayımlanmış görselleri ve bilgilerini çekiyoruz. </sub>
 
-> <sub> Bu projede görseli, görsel sahibinin adını, NASA tarafından görselin yayımlanma tarihini ve görselin açıklamasını görürürüz. </sub>
+> <sub> Bu projede görseli, görsel sahibinin adını, NASA tarafından görselin yayımlanma tarihini, görselin ismini ve görselin açıklamasını görürürüz. </sub>
 
 <sub> Bulunduğunuz güne ait NASA paylaşımını görebilirsiniz. </sub>
 
